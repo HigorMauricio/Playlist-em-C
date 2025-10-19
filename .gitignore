@@ -181,8 +181,8 @@ cython_debug/
 .cursorindexingignore
 
 # Arquivos do VSCode
-.vscode/
+.vscode
 
 # Compilados
-*.exe
-*.o
+.exe
+.o
